@@ -33,7 +33,7 @@ const submitform = () => {
     <div>
       <Form />
       <div>
-        <h2>Form Submited</h2>
+        <h2>Submited Bitch</h2>
       </div>
     </div>
   );
