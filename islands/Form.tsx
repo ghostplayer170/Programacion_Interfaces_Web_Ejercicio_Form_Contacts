@@ -32,7 +32,7 @@ export const Form: FunctionComponent = () => {
     <div class="form">
       <h1>Introduce tus datos</h1>
       <form
-        action="..\routes\submitform.tsx"
+        action="/submitform.tsx"
         method="POST"
         onSubmit={submitHandler}
       >
