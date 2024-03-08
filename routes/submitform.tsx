@@ -32,6 +32,9 @@ const submitform = () => {
   return (
     <div>
       <Form />
+      <div>
+        <h2>Form Submited</h2>
+      </div>
     </div>
   );
 };
